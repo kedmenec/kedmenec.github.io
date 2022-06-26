@@ -1,4 +1,4 @@
 # Timbo 
 
-[Salami](./salami)
-[NousChart](./nouschart)
+* [Salami](./salami)
+* [NousChart](./nouschart)
