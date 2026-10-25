@@ -14,7 +14,7 @@ Under the old part of the city there are lots of water cisterns...huge rooms tha
 
 At the famous one, the Basilica Cistern, the queues are long, and it costs, but this one was virtually empty, was free and quite beautiful...there was atmospheric mood music playing...
 
-![]({{ '/assets/uploads/2019/04/14550A25-3072-4273-8E7A-1136FEEFCA7F.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2019/04/14550A25-3072-4273-8E7A-1136FEEFCA7F.jpeg' | relative_url }})
 
 The rest of the time has been spent catching and recatching up with friends.
 
@@ -22,19 +22,19 @@ One night I went to Kumkapı, which is a fish restaurant place not all that far 
 
 Here we are...
 
-![]({{ '/assets/uploads/2019/04/8924D041-0C2B-4A8A-A8BF-C575EEE4B7E5.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2019/04/8924D041-0C2B-4A8A-A8BF-C575EEE4B7E5.jpeg' | relative_url }})
 
 We later went inside where there was a band and then a belly dancer. It was all very loud, I could almost see the no smoking sign through the smoke, but it was enjoyable.
 
 I spent another day at Sertaç’s place just lounging around, chatting and helping him set up an area on the terrace above. Here’s Anna and him and me lounging in the beautified part...
 
-![]({{ '/assets/uploads/2019/04/286F8347-FDB7-4645-979C-C3ED42D3D069.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2019/04/286F8347-FDB7-4645-979C-C3ED42D3D069.jpeg' | relative_url }})
 
 They are such easygoing and stimulating people to be around.
 
 I spent another day with my good friend Eray and some of his friends, breakfasting, and then lounging by the sea, having dinner and then going home. Here’s Eray and Mehmet (a very frequent name here) and his wife on the ferry...
 
-![]({{ '/assets/uploads/2019/04/B0DDAACB-4BBE-4096-8599-B467B155DCA9.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2019/04/B0DDAACB-4BBE-4096-8599-B467B155DCA9.jpeg' | relative_url }})
 
 It was such a pleasant way to live in the moment. And it was great to be included in the group, hearing their stories.
 

@@ -6,7 +6,7 @@ date: 2020-02-28 07:28:43 +0000
 
 For those who had difficulty imagining the photo I described a couple of letters back...when I was in Turkey with my friend Kadir and his two cousins...well here it is.
 
-![]({{ '/assets/uploads/2020/02/C77052B4-E623-4A02-88EC-4523010267C3.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/C77052B4-E623-4A02-88EC-4523010267C3.jpeg' | relative_url }})
 
 Can you pick the imam? He looks a bit serious there, but was good fun.
 
@@ -20,19 +20,19 @@ I see a lot...well a few...people smoking in the street, and there are always so
 
 There is quite a bit of busking in the streets...here a group of ladies were singing some roistering songs with guitar and drum...
 
-![]({{ '/assets/uploads/2020/02/0BF49B5C-E75F-42FE-9308-3AB7707F5B5C.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/0BF49B5C-E75F-42FE-9308-3AB7707F5B5C.jpeg' | relative_url }})
 
 they make the Kerang choir look quite juvenile, but they sounded well
 
 I prepare and eat my meals at the airbnb, which is much more economical, especially with the wine. For $6 one can buy a really nice red, and I have been taking advantage of that. Where in Australia would you drink a $6 red and retain the enamel on the teeth? The wineglass that’s on offer is huge...
 
-![]({{ '/assets/uploads/2020/02/DDD335E3-CC66-43FE-8700-E4AECBE49B5D.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/DDD335E3-CC66-43FE-8700-E4AECBE49B5D.jpeg' | relative_url }})
 
 ...so it’s a bit like drinking from a fishbowl, and it would be easy for one to end up drinking like a fish as well.
 
 Spring has sprung here already (the locals all talk about the havoc that climate change has wreaked on the usual order of things) and the orange trees that one encounters when one least expects it, are laden with flowers.
 
-![]({{ '/assets/uploads/2020/02/0187E0B2-E64B-4240-B10B-C2C96E3379D4.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/0187E0B2-E64B-4240-B10B-C2C96E3379D4.jpeg' | relative_url }})
 
 It is intoxicating to round a corner and get walloped with a face full of such delicious aroma. The oranges are, appropriately, Sevilles...those nonsweet jobs that are used for marmalade. Funnily enough that’s what they are used for here too. One of the teachers who took a few of us on a walking tour remarked that Spaniards in general don’t eat marmalade all that often, so it gets exported to marmaladephilic countries like the UK.
 
@@ -40,33 +40,33 @@ The south of the country was part of an Islamic empire for more than 500 years, 
 
 Here are some Arabic looking things...
 
-![]({{ '/assets/uploads/2020/02/4A033DC6-773C-4E38-B74D-C13FB02CF6D7.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/4A033DC6-773C-4E38-B74D-C13FB02CF6D7.jpeg' | relative_url }})
 
 In the stair wells of lots of places here have tesselations...modern, not from the Arabic period.
 
 This is the Torre Del Oro (the tower of the gold), built in 1220 and was to guard entry up the Guadalquivir river. Once Ferdinand and Isabella catholicised the place it became a prison...
 
-![]({{ '/assets/uploads/2020/02/C249D43A-1B47-49A1-95F6-8EF77A9B878A.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/C249D43A-1B47-49A1-95F6-8EF77A9B878A.jpeg' | relative_url }})
 
 Many of the grand public buildings are fairly plain, but have massively decorated front doors...not Arabic but Baroque in its most frenzied manifestation.
 
-![]({{ '/assets/uploads/2020/02/5D91BD5D-EF4F-4F25-9385-1C0FD9CDBE55.jpeg' | relative_url }})
-![]({{ '/assets/uploads/2020/02/72DDAC82-98AC-4C44-97F6-A9102D72FC26.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/5D91BD5D-EF4F-4F25-9385-1C0FD9CDBE55.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/72DDAC82-98AC-4C44-97F6-A9102D72FC26.jpeg' | relative_url }})
 
 And there is some filthy modernity too. This place is called the Mercado de la Encarnación...the market of the Incarnation (I think that refers to a church nearby). Here is a model...
 
-![]({{ '/assets/uploads/2020/02/0A84BA8F-9723-491B-AECD-66180421CC15.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/0A84BA8F-9723-491B-AECD-66180421CC15.jpeg' | relative_url }})
 
 here is the real thing...
 
-![]({{ '/assets/uploads/2020/02/4B16546E-EE17-49BD-A4B3-6EF580C0E9D0.jpeg' | relative_url }})
-![]({{ '/assets/uploads/2020/02/CDA40288-8CB0-42D4-91FB-61974C7F027D.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/4B16546E-EE17-49BD-A4B3-6EF580C0E9D0.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/CDA40288-8CB0-42D4-91FB-61974C7F027D.jpeg' | relative_url }})
 
 It is a pretty astounding construction. They call it the mushroom!
 
 There are churches everywhere... here’s one right in the middle of the shops...
 
-![]({{ '/assets/uploads/2020/02/059CDD00-430E-48E1-866D-7C9AFDB683AA.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/059CDD00-430E-48E1-866D-7C9AFDB683AA.jpeg' | relative_url }})
 
 The weather remains perfect, cool at night and up to mid 20s during the day, blue sky, no clouds, no wind.
 

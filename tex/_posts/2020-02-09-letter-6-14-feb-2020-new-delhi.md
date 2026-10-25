@@ -16,25 +16,25 @@ I had some more street food..
 
 A baked sweet potato...
 
-![]({{ '/assets/uploads/2020/02/img_2171-1.jpg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/img_2171-1.jpg' | relative_url }})
 
 And some interestingly named pineapple juice...
 
-![]({{ '/assets/uploads/2020/02/img_2173-3.jpg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/img_2173-3.jpg' | relative_url }})
 
 The juice guy directed me a barber where I had a splendid $1 shave
 
-![]({{ '/assets/uploads/2020/02/img_2176.jpg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/img_2176.jpg' | relative_url }})
 
 In the centre of the city, Connaught Place, I succumbed to the repeated blandishments of one of the many shoeshine guys,who quoted me 40 rupees for the two shoes (80c) so away we went...
 
-![]({{ '/assets/uploads/2020/02/img_2170.jpg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/img_2170.jpg' | relative_url }})
 
 He found that the insoles were pretty worn, so replaced them with new ones. How much, I had inquired just before the said soles were inserted...whatever you like he said...hmm always a danger signal. So when all was finished he said the price...850 rupees! Clearly an ambit claim, as that’s about $17. So I replied that he had quoted 40, and then something for the soles...that made 100 ($2) in my estimation. He remonstrated feebly, so I gathered that he had done well enough.
 
 I had a spectacular meal here on the day I arrived, in a vaguely up-market place. It was the thali, again, but with parathas, which have the texture of a hot croissant, curries, rice, yoghurt, a sweet dish and a fresh lime soda for less than $8.
 
-![]({{ '/assets/uploads/2020/02/img_2164-2.jpg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/img_2164-2.jpg' | relative_url }})
 
 The airbnb is ok. It’s in a posh suburb called Greater Kailash. The room is big, the bathroom very plush, all is quiet, but I have had very little interaction with the family. It feels strange after the intensity of the previous places I have stayed in, but that’s the way of the world. Judging places based on your expectations rather than what they themselves have to offer is the road to needless disappointment.
 
@@ -42,21 +42,21 @@ There are stacks of major attractions to look at here.
 
 I visited a huge mosque (Islam came to India with the conquest by the Moghuls in mid 16th century, reaching its height in 18th, then in a severely attenuated form disbanded by the British in the 19th) called Jama Masjid...
 
-![]({{ '/assets/uploads/2020/02/38115395-1BEC-445A-9D0D-2A07ACC3B60C.jpeg' | relative_url }})
-![]({{ '/assets/uploads/2020/02/C00A28C8-4137-4B79-8F05-381D0C3C0B19.jpeg' | relative_url }})
-![]({{ '/assets/uploads/2020/02/858C4CFB-E4CC-43ED-AD4C-D66F0F2596BA.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/38115395-1BEC-445A-9D0D-2A07ACC3B60C.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/C00A28C8-4137-4B79-8F05-381D0C3C0B19.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/858C4CFB-E4CC-43ED-AD4C-D66F0F2596BA.jpeg' | relative_url }})
 
 it was pretty impressive.
 
 Nearby the mosque I had a splendid experience which rejuvenated my faith in human nature. I was hungry so I entered a very much ‘local cafe for local people’ type eating place and had this...
 
-![]({{ '/assets/uploads/2020/02/EE2AB642-F39E-4394-8122-1B4DA60C1A86.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/EE2AB642-F39E-4394-8122-1B4DA60C1A86.jpeg' | relative_url }})
 
 Delish it was, and the young guy, a non English speaker, who had been serving responded to my ‘how much’ sign with ‘200 rupees’ (about $4). At the high end I thought, but went with it. I was a few metres from the shop when the guy tagged me on the arm and motioned me back...it seems the price was only 120 rupees ($2.40). I was mightily buoyed by the experience.
 
 Another religious place I went to was the Sikh temple called Gurudwara Bangla Sahib...
 
-![]({{ '/assets/uploads/2020/02/54B68678-1400-40F2-8D8A-EA156BD85F36.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/54B68678-1400-40F2-8D8A-EA156BD85F36.jpeg' | relative_url }})
 
 It’s a huge marble place with a prayer hall where the gurus’ writings are continually chanted, with drum of infinitely pleasing rhythmic flexibility, and an accordeon-like drone job, and a big square pool (80mx80m I estimated) outside. The place is so clean and peaceful. But no photos allowed inside.
 
@@ -70,12 +70,12 @@ Sounds pretty good to me.
 
 Another place I visited was the Lotus Temple of the Bahá’ís.
 
-![]({{ '/assets/uploads/2020/02/30A5B4DF-121D-45E7-81CF-6E43ADFF17B0.jpeg' | relative_url }})
-![]({{ '/assets/uploads/2020/02/6004D48D-9157-4A8C-9A7D-CF4DA0686921.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/30A5B4DF-121D-45E7-81CF-6E43ADFF17B0.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/6004D48D-9157-4A8C-9A7D-CF4DA0686921.jpeg' | relative_url }})
 
 The imagery is of the Lotus which lives under the mud, but then the flower emerges, pure and beautiful. So the human can rise from the sea of prejudice, intolerance and discord and become purified. The Bahá’í religion started in mid 18th century with a prophet who who radically developed a religion whose aim was to ‘inspire individuals and communities as they work to improve their own lives and contribute to the advancement of civilisation’. Their tenets are expressed on a plaque at the entrance...
 
-![]({{ '/assets/uploads/2020/02/1A1EA49E-374E-4CD5-A2D6-92E7167F884B.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/1A1EA49E-374E-4CD5-A2D6-92E7167F884B.jpeg' | relative_url }})
 
 Inside the temple there are 9 huge arches supporting the soaring pointed dome, and other arches further out which are windowed and look over the manicured gardens. There are no pious objects, just the plain light grey concrete. There is seating for hundreds of people. The place is calm and quiet and just to sit and be still was a rare treat.
 
@@ -89,11 +89,11 @@ I have been rereading George Orwell’s 1984, and the idea of Big Brother always
 
 This sign in all the Delhi subway stations was instructive too...
 
-![]({{ '/assets/uploads/2020/02/3E6F665E-47FE-41E0-8C14-2ED1CBCC78B6.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/3E6F665E-47FE-41E0-8C14-2ED1CBCC78B6.jpeg' | relative_url }})
 
 When I was in Kolkata I visited a temple/shrine devoted to a mid 19th century mystic named Ramakrishna. He preached a spirituality outside conventional religions, and was very influential. The place was very peaceful with lots of gardens. He maintained the common path of all religions was to the one end. Here’s a huge muriel of him...
 
-![]({{ '/assets/uploads/2020/02/2839F27C-C1F0-4FD2-9A96-9D5D7BAE260D.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/2839F27C-C1F0-4FD2-9A96-9D5D7BAE260D.jpeg' | relative_url }})
 
 It seems that in India there is a level of inclusive spiritual questing that we don’t see all that often in the west.
 

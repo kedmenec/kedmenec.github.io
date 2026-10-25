@@ -6,11 +6,11 @@ date: 2020-02-20 09:01:50 +0000
 
 I used the last days in Delhi to visit a few markets and sites/mosques/temples. I felt quite comfortable using the metro, and am amazed at how efficient and clean it is. At peak times there are 8-carriage long trains that arrive at 3 minute or less intervals, the doors stay open for 30 seconds and then they swish of into the blackness again. The signalling systems must be amazing. Here’s a long look down the connecting causeway between two of the metro lines...
 
-![]({{ '/assets/uploads/2020/02/774F30C1-7E20-435C-AA32-6CE9DA8D86E4.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/774F30C1-7E20-435C-AA32-6CE9DA8D86E4.jpeg' | relative_url }})
 
 They have screens that tell you the state of the atmosphere outside...
 
-![]({{ '/assets/uploads/2020/02/5CC2377C-6990-49C9-9DC4-25B75B77D27D.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/5CC2377C-6990-49C9-9DC4-25B75B77D27D.jpeg' | relative_url }})
 
 There have been a couple of days when the needle has been well to the right! Apparently during the summer, when the temps are regularly in the mid to high 40s, life is pretty difficult.
 
@@ -20,21 +20,21 @@ There are some real advantages in being the only whitey in the village...well al
 
 You may remember the paineapple encounter from last letter. I’d returned to that market to get another shave, and decided to have another drink as well, so fronted up. The guy looked up, flashed a massive smile and asked if I wanted pianeapple again. ... here he is...
 
-![]({{ '/assets/uploads/2020/02/D210E4EF-98C3-44E0-8EBF-AEBEE4CC4690.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/D210E4EF-98C3-44E0-8EBF-AEBEE4CC4690.jpeg' | relative_url }})
 
 and at a patisserie where I had a coffee and a bite to eat one day, I was welcomed back the second and third times with ever increasing warmth. Here it is...
 
-![]({{ '/assets/uploads/2020/02/EE6CC154-DD0A-4037-B365-622B69956C3E.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/EE6CC154-DD0A-4037-B365-622B69956C3E.jpeg' | relative_url }})
 
 The contrast among a European style place like this (where the staff are friendly, but the coffee costs only a $1), Starbucks (where the staff are largely disdainful and the coffee costs the same as in Oz, and is pretty awful) and a street place where I had some doughnut-like things with yoghurt and dal (for $1and the staff will greet you if you return) is rather stark.
 
-![]({{ '/assets/uploads/2020/02/0EE11117-39DD-44D3-B8B1-5261A98911CF.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/0EE11117-39DD-44D3-B8B1-5261A98911CF.jpeg' | relative_url }})
 
 The travel advisory websites I consulted before I arrived all cautioned about the water (clean your teeth in bottled water for example) and the probability of getting Delhi Belhi. I found, in the places I visited, that the town water was very clean and had no residual chlorine or other smell. Soap lathered well in the shower. I didn’t drink from the tap however, and the airbnb places had water filters. And...no DB. One can get all twisted about using hand sanitisers and not touching the bannisters and not eating street food, but in my experience it’s a bit over the top. It might be a different situation in a village in the south though, and a dose of the runs might have sharpened my vigilance.
 
 My 7 am flight to Istanbul seemed like a good idea when I booked last year, but it meant that I had to set off soon after 3am. It didn’t seem like such a good idea then! And I had a bit of a strange experience with the Uber guy. The price of the trip was quoted by the app as 245 rupees (around $5), so I had made sure that I had just enough Indian currency to cover it. When we got there he said the fee was 1450 rupees! and the app said it too. So I had to scramble to the only ATM in the airport and get the money. I took it up with Uber, thinking that the driver was pulling a scam..the record of the trip on the app showed us travelling all over the city, not in a direct line between the black dots. I had some issues with believing the graph however, as the trip hadn’t taken more than the expected time.
 
-![]({{ '/assets/uploads/2020/02/C4750F31-863F-40D6-9C2F-C1057D6DFA11.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/C4750F31-863F-40D6-9C2F-C1057D6DFA11.jpeg' | relative_url }})
 
 But they fessed up that it was a problem with the GPS, and credited me with the difference. I did hope that the GPS in the plane was going to be more reliable, but all went well in the air...
 
@@ -44,11 +44,11 @@ The airport is humongous, and I had eaten the packed lunch by the time I got to 
 
 The airbnb is run by a tall, very skinny 30 odd year old with black curly locks and a wonderfully active face. He’s a musician and a consultant (whatever that means) for hair transplants. He has 3 rooms there, in a fairly shabby apartment, available for guests. My room is big, airy and quiet and the bed is comfortable. The place is within spitting distance of the Sultanahmet Mosque,
 
-![]({{ '/assets/uploads/2020/02/C928DA92-97B4-42D3-9B2D-E22489383741.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/C928DA92-97B4-42D3-9B2D-E22489383741.jpeg' | relative_url }})
 
 and the Aya Sofia mega church (built in 537, turned into a mega mosque when Mehmet the Conqueror...er...conquered the city in 1453, then a museum since 1935)
 
-![]({{ '/assets/uploads/2020/02/ECBF2E99-80EC-49E0-8B48-8C19067854A3.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/ECBF2E99-80EC-49E0-8B48-8C19067854A3.jpeg' | relative_url }})
 
 right in the heart of old Istanbul.
 
@@ -56,11 +56,11 @@ After the noise and population and dust of India in the winter, Istanbul is calm
 
 On Saturday I got a bus to a town on the Black Sea coast where a longtime friend, Kadir, lives. He and I met over a decade ago in Çeşme, on the west coast of Turkey, and have kept in touch ever since. I’m Uncle Terry (Terry amca in Turkish) to his two little girls, 7 and 2 years old. Here’s Betül,
 
-![]({{ '/assets/uploads/2020/02/3B0D530E-3169-48A1-B762-25E462BA5235.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/3B0D530E-3169-48A1-B762-25E462BA5235.jpeg' | relative_url }})
 
 And here’s the baby Hazal, and her dad Kadir...
 
-![]({{ '/assets/uploads/2020/02/A349AB4B-642A-41E4-9EFC-D6759994A0F4.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/A349AB4B-642A-41E4-9EFC-D6759994A0F4.jpeg' | relative_url }})
 
 He works in his father-in-law’s menswear shop here. He and his wife Tuba were teachers in one of a chain of private schools which the president shut down after the attempted military coup of a few years back. All the staff members, and there were thousands, were deregistered, imprisoned and fined, and Kadir and his wife were among them. Lots of others: journalists, authors, police, soldiers were imprisoned as well, and many were ‘disappeared’. The organisation which ran the schools, whose alumni were perceived by the government as members of a terrorist organisation trying to create a hidden state in opposition to the president, was outlawed, and the political purging began. I have talked to quite a few Turks, and read commentary about the coup, but the reality of what went on is difficult to find out. If for us to find out the truth amidst the spin of the Sports Rorts affair in Oz seems largely impossible...imagine what it is like here, with only pro-government newspapers and other media allowed (all the rest were shut down after the coup).
 
@@ -74,7 +74,7 @@ The guy on the left, Recep, is an imam, but that didn’t get in the way. He did
 
 We went to the actual fish ponds too...not many fish to be seen, but lots of magnificent fresh and invigorating fresh air. Here we are with the keeper of the ponds. It is so nice when you have shaken hands upon meeting, but when you leave it’s hugs and ‘görüşürüz inşallah’...(see you again God willing).
 
-![]({{ '/assets/uploads/2020/02/AA588E44-CCB0-45CA-8591-098CCC3D37F7.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/AA588E44-CCB0-45CA-8591-098CCC3D37F7.jpeg' | relative_url }})
 
 My Turkish, sadly dormant since a lack of practice and my studies in Spanish have put it even further back than the back burner, actually started to revive. At the resort place, when the blokes went into the mosque do their thing, I, outside, got talking to a jovial and simpatico shopkeeper...all in Turkish. Much of what he said went by in a storm of syllables, but I got enough to be able to continue the conversation.
 
@@ -84,29 +84,29 @@ The whole day was so rich. Just sitting around talking (or in my case listening 
 
 Back in Istanbul I had lunch with one good friend Buğra the carpet dealer (on the left), his brother (on the right), his cousin (at the back on the right) and some some of the staff at his shop. Turkish-style we sat on the floor and enjoyed it...
 
-![]({{ '/assets/uploads/2020/02/5C469D3F-FB53-4483-82E0-D948B9C6D846.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/5C469D3F-FB53-4483-82E0-D948B9C6D846.jpeg' | relative_url }})
 
 and at night had some beer and food with another good friend Eray...
 
-![]({{ '/assets/uploads/2020/02/584209F9-E675-4889-B284-5942D0415417.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/584209F9-E675-4889-B284-5942D0415417.jpeg' | relative_url }})
 
 I had a shave from a barber that I have been going to when I’ve been here in Istanbul over the last few years. He and the other blokes in the shop always welcome me back like a long lost customer, and the shaves are excellent. There’s a procedure to eradicate errant hairs from the ears which involves a flaming stick (meths-soaked cotton wool on a springy stick) being slapped against the doomed hairs. Then the resulting conflagration is rapidly smothered by the barber’s other hand. The uncomfortableness is mostly in the fear of being immolated, but once the stench of the burned hair has dissipated the anxiety dissipates as well. Here he is doing it...
 
-- ![]({{ '/assets/uploads/2020/02/462EE443-D255-4EDF-A2EE-4BB1631ACC3B.jpeg' | relative_url }})
+- ![]({{ '/tex/assets/uploads/2020/02/462EE443-D255-4EDF-A2EE-4BB1631ACC3B.jpeg' | relative_url }})
 
 On the final day, the 19th, I visited one of the famous, but less touristed, imperial mosques...the Süleymaniye, finished in 1575, and designed by the most famous architect and creator of the Turkish mosque style, Sinan.
 
-![]({{ '/assets/uploads/2020/02/8B6E1E8A-A621-403A-AE6A-B4C201024653.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/8B6E1E8A-A621-403A-AE6A-B4C201024653.jpeg' | relative_url }})
 
 The mosque is on top of a hill and has terrific views over the city...
 
-![]({{ '/assets/uploads/2020/02/CA369AC2-8659-47DC-BE42-671E54A4F01A.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/CA369AC2-8659-47DC-BE42-671E54A4F01A.jpeg' | relative_url }})
 
 Inside it is amazing, and you only realise the size when you see the people...
 
-![]({{ '/assets/uploads/2020/02/61F6AE8D-5437-4D31-AC7B-F15691768D6C.jpeg' | relative_url }})
-![]({{ '/assets/uploads/2020/02/F524FE97-29C7-42DF-8697-1ADCE4E86E5C.jpeg' | relative_url }})
-![]({{ '/assets/uploads/2020/02/4AB4CC6E-B1A3-49F9-83F0-AF45487C864A.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/61F6AE8D-5437-4D31-AC7B-F15691768D6C.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/F524FE97-29C7-42DF-8697-1ADCE4E86E5C.jpeg' | relative_url }})
+![]({{ '/tex/assets/uploads/2020/02/4AB4CC6E-B1A3-49F9-83F0-AF45487C864A.jpeg' | relative_url }})
 
 On Thursday 20th I fly 4 hours to Madrid, stay there until Sunday and then go south to Sevilla to start the 6 week course of Spanish.
 
