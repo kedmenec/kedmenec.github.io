@@ -1,0 +1,8 @@
+title: Tex de Kerang
+description: Letters from Turkey, Spain, India and beyond.
+theme: minima
+permalink: /:year/:month/:day/:title/
+timezone: UTC
+markdown: kramdown
+exclude:
+  - README.md
